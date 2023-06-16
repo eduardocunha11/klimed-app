@@ -4,7 +4,7 @@
 	"description": "Aplicação de uma clínica médica.",
 	"scripts": {
 		"ng": "ng",
-		"start": "ng serve --open",
+		"start": "ng serve --openssl-legacy-provider",
 		"build": "ng build",
 		"publish": "ng build && del-cli --force ../back-end/public && cp-cli dist ../back-end/public",
 		"watch": "ng build --watch --configuration development",
