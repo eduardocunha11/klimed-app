@@ -11,7 +11,7 @@
 		"test": "ng test",
 		"lint": "ng lint"
 	},
-	"author": "Lucas Rassilan Vilanova",
+	"author": "Eduardo Cunha Campos",
 	"license": "ISC",
 	"repository": {
 		"url": "https://github.com/eduardocunha11/klimed-app"
