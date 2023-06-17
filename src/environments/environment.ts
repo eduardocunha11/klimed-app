@@ -4,7 +4,7 @@
 
 export const environment = {
 	production: false,
-	API_URL: "https://klimed-api.vercel.app/api"
+	API_URL: "https://klimed-api.vercel.app"
 };
 
 /*
