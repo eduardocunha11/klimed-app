@@ -6,7 +6,7 @@
 		"ng": "ng",
 		"start": "ng serve --openssl-legacy-provider",
 		"build": "ng build",
-		"publish": "ng build && del-cli --force ../back-end/public && cp-cli dist ../back-end/public",
+		"publish": "ng build",
 		"watch": "ng build --watch --configuration development",
 		"test": "ng test",
 		"lint": "ng lint"
@@ -14,7 +14,7 @@
 	"author": "Lucas Rassilan Vilanova",
 	"license": "ISC",
 	"repository": {
-		"url": "https://github.com/Lucasrsv1/lab-eng-sw-tp2-clinica"
+		"url": "https://github.com/eduardocunha11/klimed-app"
 	},
 	"dependencies": {
 		"@angular/animations": "~12.2.0",
