@@ -1,6 +1,10 @@
-# Klimed
+# Klimed - Sistema para Gerenciamento de Clínicas Médicas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+
+## Contact us
+
+E-mail: eduardocunha11@gmail.com
 
 ## Development server
 
