@@ -17,6 +17,10 @@ https://klimed-api.vercel.app/home
 
 Mail: eduardocunha11@gmail.com / edu@cefetmg.br / WhatsApp: (34) 99142-1521
 
+## Presentation Video (YouTube)
+
+https://www.youtube.com/watch?v=KsGnf37hIko&t=2s
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
