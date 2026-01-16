@@ -1,10 +1,22 @@
-# Klimed - Sistema para Gerenciamento de Clínicas Médicas
+# Klimed - Medical Clinic Management System
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
+
+## About
+
+Klimed is a system designed to be used by doctors working in private practices or clinics. The system allows online appointment scheduling. In addition, all patient and doctor data is securely stored in the cloud. 
+
+## Deployment
+
+The system is deployed at the following address:
+
+https://klimed-api.vercel.app/home
+
 ## Contact us
 
-E-mail: eduardocunha11@gmail.com
+Mail: eduardocunha11@gmail.com / edu@cefetmg.br
+WhatsApp: (34) 99142-1521
 
 ## Development server
 
