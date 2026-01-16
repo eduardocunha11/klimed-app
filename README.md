@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Klimed is a system designed to be used by doctors working in private practices or clinics. The system allows online appointment scheduling. In addition, all patient and doctor data is securely stored in the cloud. 
 
-## Deployment
+## Deploymenthttps://github.com/eduardocunha11/klimed-app/blob/main/README.md
 
 The system is deployed at the following address:
 
@@ -44,3 +44,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Sponsor this project
+
+![GitHub Sponsor](https://img.shields.io/github/sponsors/eduardocunha11?label=Sponsor&logo=GitHub)
