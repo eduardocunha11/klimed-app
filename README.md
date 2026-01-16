@@ -15,8 +15,7 @@ https://klimed-api.vercel.app/home
 
 ## Contact us
 
-Mail: eduardocunha11@gmail.com / edu@cefetmg.br
-WhatsApp: (34) 99142-1521
+Mail: eduardocunha11@gmail.com / edu@cefetmg.br / WhatsApp: (34) 99142-1521
 
 ## Development server
 
